@@ -1,4 +1,6 @@
-# Nuxt 3 Starter
+# Menu Whatsapp App ft. Nuxt 3 Starter
+
+A Nuxt.js Tailwind Pinia starter for a Menu front end for a mobile restaurant app. The app places orders and sends them via whatsapp.
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
@@ -26,10 +28,12 @@ First-party plugins needed for Tailwind UI:
 - [tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography)
 - [tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp)
 - [tailwindcss/aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
+- [tailwindcss/scrollbar-hide]([https://github.com/tailwindlabs/tailwindcss-scrollbar-hide])
 
 
 Best Nuxt with Plugins:
 - [Pinia](https://github.com/posva/pinia)
+
 
 ## Setup
 
