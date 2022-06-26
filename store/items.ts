@@ -88,15 +88,7 @@ export const useForm = defineStore('item', {
     }),
     actions: {
         
-        setCategory(e) {
-            this.selectedCategory = e;
-            if(this.selectedCategory === 'Pizza') {
-                this.masterArray = this.pizzaArray;
-            }
-            else {
-                this.masterArray = this.burgerArray;
-            }
-        },
+   
         
         sendWhatsapp(e) {
             window.open('https://api.whatsapp.com/send?phone=55119988888888&text=' + e);

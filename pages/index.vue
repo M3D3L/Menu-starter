@@ -49,6 +49,10 @@ export default {
 
     const lists = ref<link[]>([
       {
+        category: "Todos",
+        url: "https://images.pexels.com/photos/761854/pexels-photo-761854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      },
+      {
         category: "Pizza",
         url: "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
